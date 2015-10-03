@@ -1,0 +1,4 @@
+﻿# wordpress-woocommerce-gateway-liqpay
+Wordpress woocommerce gateway liqpay API v3 plugin 
+
+[Угостить кофе](https://www.liqpay.com/api/checkout?data=eyJ2ZXJzaW9uIjozLCJwdWJsaWNfa2V5IjoiaTc2OTYxMDkwNTU2IiwiYW1vdW50IjoiNSIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiJXb29jb21tZXJjZSBsaXFwYXkgZ2F0ZXdheSIsInR5cGUiOiJkb25hdGUiLCJsYW5ndWFnZSI6InJ1IiwicGF5X3dheSI6ImNhcmQsbGlxcGF5LGRlbGF5ZWQscHJpdmF0MjQifQ%3D%3D&signature=V8bWEFVCDuuLiJU1WzySaRYKVdE%3D)
